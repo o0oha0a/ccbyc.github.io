@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://www.ccb.com/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ccb.com/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -39,6 +30,42 @@
   
   <url>
     <loc>http://www.ccb.com/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ccb.com/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ccb.com/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ccb.com/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ccb.com/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://www.ccb.com/personal/about/index.html</loc>
+    <loc>http://www.ccb.com/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://www.ccb.com/personal/bb/index.html</loc>
+    <loc>http://www.ccb.com/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -102,33 +129,6 @@
   
   <url>
     <loc>http://www.ccb.com/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ccb.com/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ccb.com/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ccb.com/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
